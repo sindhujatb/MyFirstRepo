@@ -1,1 +1,2 @@
 sample
+I have made some changes to this file to check on diff command and new commit.
